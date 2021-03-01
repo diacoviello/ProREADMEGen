@@ -9,7 +9,7 @@ function generateMarkdown(data) {
 
   <h1>${data.title}</h1>
 
-  ![badge](https://img.shields.io/badge/license-${answers.license}-lightblue)
+  ![badge](https://img.shields.io/badge/license-${data.license}-lightblue)
 
     ##Github user
     ${data.github}
