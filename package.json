@@ -1,0 +1,24 @@
+{
+  "name": "ProREADMEGen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diacoviello/ProREADMEGen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diacoviello/ProREADMEGen/issues"
+  },
+  "homepage": "https://github.com/diacoviello/ProREADMEGen#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "path": "^0.12.7"
+  }
+}
