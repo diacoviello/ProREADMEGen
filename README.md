@@ -1,6 +1,6 @@
 
 
-  <h1>Pro README generator</h1>
+  <h1>ProREADME Generator</h1>
 
   ![badge](https://img.shields.io/badge/license--lightblue)
 
@@ -14,17 +14,17 @@
     generates readme files
 
     ##Installation Process
-    node
+    npm init -y, npm i
     
     ##User License
     
     
     ##Usage
-    none
+    use on all projects
 
     ##Contributions
-    none
+    use github branches
 
     ##Testing
-    none
+    n/a
     
